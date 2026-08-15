@@ -1,0 +1,38 @@
+# NAME: Gemini for Loon
+# AUTHOR: Custom
+# UPDATED: 2026-08-15
+# DESC: Gemini / Google AI domain rules for Loon
+
+# Gemini Web
+DOMAIN,gemini.google.com
+
+# Gemini / Google AI
+DOMAIN-SUFFIX,gemini.google.com
+DOMAIN-SUFFIX,ai.google.dev
+DOMAIN-SUFFIX,deepmind.com
+
+# Google Generative AI API
+DOMAIN,generativelanguage.googleapis.com
+DOMAIN-SUFFIX,generativelanguage.googleapis.com
+
+# Google APIs
+DOMAIN-SUFFIX,googleapis.com
+DOMAIN-SUFFIX,apis.google.com
+
+# Google Static Resources
+DOMAIN-SUFFIX,gstatic.com
+
+# Google User Content
+DOMAIN-SUFFIX,googleusercontent.com
+DOMAIN-SUFFIX,ggpht.com
+
+# Google Account / Login
+DOMAIN,accounts.google.com
+DOMAIN-SUFFIX,accounts.google.com
+
+# Google OAuth
+DOMAIN-SUFFIX,oauth2.googleapis.com
+
+# Google CDN
+DOMAIN-SUFFIX,gvt1.com
+DOMAIN-SUFFIX,gvt2.com
