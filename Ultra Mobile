@@ -1,0 +1,16 @@
+# NAME: Ultra Mobile
+# AUTHOR: ChenJianJi
+# UPDATED: 2026-08-20
+# DESC: Ultra Mobile 官方 App 分流
+
+# Ultra Mobile 官网
+DOMAIN-SUFFIX,ultramobile.com
+
+# Ultra Mobile 用户账户 / 登录 / 激活
+DOMAIN-SUFFIX,my.ultramobile.com
+
+# Ultra Mobile 服务域名
+DOMAIN-SUFFIX,ultra.me
+
+# Ultra Mobile App
+# Bundle ID: com.uvnv.UltraMobile
