@@ -1,13 +1,7 @@
 # NAME: Podio
-# AUTHOR: GitHub User
-# REPO: https://github.com
+# AUTHOR: ChenJianJi
 # UPDATED: 2026-08-20
-# DESCRIPTION: Podio 全球广播电台全局分流规则
+# DESC: Podio 全球广播电台 / Podcast
 
-# 核心进程匹配（拦截 App 产生的全量流量及音频流）
-PROCESS-NAME,Podio
-
-# 域名与关键词匹配
-DOMAIN-KEYWORD,podio
-DOMAIN-SUFFIX,podio.fm
-DOMAIN-SUFFIX,podio.app
+DOMAIN-SUFFIX,hkxmf.com
+DOMAIN-SUFFIX,ios-static-2.hkxmf.com
