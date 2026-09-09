@@ -1,20 +1,10 @@
 # NAME: Pinterest
 # AUTHOR: ChenJianJi
 # UPDATED: 2026-09-09
-# DESC: Pinterest
+# DESC: Pinterest 分流规则
 
-# Pinterest 主站
 DOMAIN-SUFFIX,pinterest.com
-
-# Pinterest API
-DOMAIN-SUFFIX,api.pinterest.com
-
-# Pinterest 图片 / 视频 CDN
-DOMAIN-SUFFIX,pinimg.com
-
-# Pinterest 相关域名
 DOMAIN-SUFFIX,pinterest.net
+DOMAIN-SUFFIX,pinimg.com
 DOMAIN-SUFFIX,pinterestmail.com
-
-# Pinterest 短链接
 DOMAIN-SUFFIX,pin.it
