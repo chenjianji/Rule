@@ -36,3 +36,5 @@ DOMAIN,apple-carry-relay.cloudflare.com,PROXY
 #---------------------------
 
 DOMAIN,gspe1-ssl.ls.apple.com,PROXY
+DOMAIN,api-siri-prod.apple.com
+DOMAIN,gs-loc-cn.apple.com
