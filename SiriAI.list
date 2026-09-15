@@ -1,4 +1,3 @@
-[Rule]
 # Apple Intelligence & Foundation Models 核心
 DOMAIN-SUFFIX,apple-intelligence.com, PROXY
 DOMAIN-SUFFIX,generative.engine.apple.com, PROXY
