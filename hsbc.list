@@ -1,8 +1,12 @@
 # NAME: HSBC HK Mobile Banking
 # DESC: HSBC Hong Kong App direct connection rules
 # SOURCE: HSBC HK official
-
+# HSBC & Hang Seng Bank Direct Rules
+DOMAIN-SUFFIX, hsbc.com, DIRECT
 DOMAIN-SUFFIX, hsbc.com.hk, DIRECT
 DOMAIN-SUFFIX, hsbc.com.cn, DIRECT
-DOMAIN-SUFFIX, hsbc.com, DIRECT
 DOMAIN-KEYWORD, hsbc, DIRECT
+DOMAIN-SUFFIX, hangseng.com, DIRECT
+DOMAIN-SUFFIX, hangseng.com.cn, DIRECT
+DOMAIN-KEYWORD, hangseng, DIRECT
+
