@@ -2,6 +2,7 @@
 # DESC: HSBC Hong Kong App direct connection rules
 # SOURCE: HSBC HK official
 
-DOMAIN,m.mobilex-static.hsbc.com.hk,DIRECT
-DOMAIN,m.hsbc.com.hk,DIRECT
-DOMAIN,ob.hsbc.com.hk,DIRECT
+DOMAIN-SUFFIX, hsbc.com.hk, DIRECT
+DOMAIN-SUFFIX, hsbc.com.cn, DIRECT
+DOMAIN-SUFFIX, hsbc.com, DIRECT
+DOMAIN-KEYWORD, hsbc, DIRECT
